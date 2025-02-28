@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -29,7 +29,7 @@ body {
 .leftContainer {
     flex: 1;
     position: relative;
-    overflow: hidden; /* Ensure the image doesn't overflow */
+    overflow: hidden;
 }
 
 .bg-image img {
